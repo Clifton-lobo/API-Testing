@@ -1,0 +1,40 @@
+{
+  "professors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "timetable": {
+        "Monday": "Math",
+        "Tuesday": "Physics",
+        "Wednesday": "Math",
+        "Thursday": "Chemistry",
+        "Friday": "Math",
+        "Saturday": "Physics"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Prof. Johnson",
+      "timetable": {
+        "Monday": "English",
+        "Tuesday": "History",
+        "Wednesday": "English",
+        "Thursday": "Sociology",
+        "Friday": "English",
+        "Saturday": "History"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Williams",
+      "timetable": {
+        "Monday": "Biology",
+        "Tuesday": "Chemistry",
+        "Wednesday": "Biology",
+        "Thursday": "Math",
+        "Friday": "Chemistry",
+        "Saturday": "Biology"
+      }
+    }
+  ]
+}
